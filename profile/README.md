@@ -12,6 +12,6 @@ Yes, you need your custom frontend as well as firmware for each device to make y
 
 I have few examples of how things work, so you can dive into it, observing this organization page.
 
-*P.S. Some reference links in russian, so if you can't read it, ehh... Good luck!~*
+*P.S. Some reference links in russian, so if you can't read their's content, ehh... Good luck!~*
 
 🐈
