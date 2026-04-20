@@ -10,4 +10,4 @@ It has alternatives like a **[Home Assistant](https://github.com/home-assistant/
 
 You need your custom frontend as well as firmware for each device to make your own decentralized IoT. **[delib](https://github.com/de-things/delib)** is just a light-weight lib to simplify firmware you write for your ESP32 controller.
 
-🐳
+<div align=center>🐳</div>
