@@ -5,8 +5,8 @@
 
 It has alternatives like a **[Home Assistant](https://github.com/home-assistant/)**, but it's too complicated for me, as well as I wanted to implement an IoT environment with my own knowledge, so I did a thing... a *de:thing*, basically, ha-ha.
 
-## Core
-**[delib](https://github.com/de-things/delib)** - is the core lib for the whole stuff here. You include it into your ESP32 controller to let it work as decentralized client<>server device with a simple communication based on !commands.
+## TL;DR
+**[delib](https://github.com/de-things/delib)** - a library for the whole stuff here. You include it into your ESP32 controller to let it work as decentralized client<>server device with a simple communication based on `!commands`.
 
 You need your custom frontend as well as firmware for each device to make your own decentralized IoT. **[delib](https://github.com/de-things/delib)** is just a light-weight lib to simplify firmware you write for your ESP32 controller.
 
