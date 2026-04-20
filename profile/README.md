@@ -1,4 +1,4 @@
-<image src=https://github.com/de-things/.github/blob/main/profile/banner-v2.png />
+<image src=https://github.com/de-things/.github/blob/main/profile/banner-v3.png />
 
 ## A gist...
 ...is to make each IoT device decentralized and self-contained without a need of communication through world-wide China-like server (Hi Aqara, Tuya and etc. etc.). So you can assemble your own smart things using this lib.
@@ -10,4 +10,4 @@ It has alternatives like a **[Home Assistant](https://github.com/home-assistant/
 
 You need your custom frontend as well as firmware for each device to make your own decentralized IoT. **[delib](https://github.com/de-things/delib)** is just a light-weight lib to simplify firmware you write for your ESP32 controller.
 
-🐈
+🐳
