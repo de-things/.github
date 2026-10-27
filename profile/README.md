@@ -1,13 +1,13 @@
-<image src=https://github.com/de-things/.github/blob/main/profile/banner-v4.png />
+<image src=https://github.com/de-things/.github/blob/main/profile/banner-v5.png />
 
 ## A gist...
-...is to make each IoT device decentralized and self-contained without a need of communication through world-wide China-like server (Hi Aqara, Tuya and etc. etc.). So you can assemble your own smart things using this project.
+...is to make possible to create IoT devices targeted to *decentralized* networks without a need to communicate through a long-distance gateway such as Kojima / Aqara / Tuya / etc. *centralized* IoT devices do.
 
-It has alternatives like a **[Home Assistant](https://github.com/home-assistant/)**, but it's too complicated for me, as well as I wanted to implement an IoT environment with my own knowledge, so I did a thing... a *de:thing*, basically, ha-ha.
+This project has alternatives such as [Home Assistant](https://github.com/home-assistant/), but imo it's overwhelmed with features, as well as I wanted to learn IoT infrastructure, so I did a thing... a *de:thing*, basically, ha-ha.
 
-## TL;DR
-**[delib](https://github.com/de-things/delib)** - a library for the whole stuff here. You include it into your ESP32 controller to let it work as decentralized client<>server device with a simple communication based on `!commands`.
+### Where to start
 
-You need your custom frontend as well as firmware for each device to make your own decentralized IoT. **[delib](https://github.com/de-things/delib)** is just a light-weight lib to simplify firmware you write for your ESP32 controller.
+* A [core library](https://github.com/de-things/delib) for ESP32 family boards to create an IoT device in just a few lines of code;
+* Official web [GUI client](https://github.com/de-things/ddv-gui) with customizable layout to control de:things devices.
 
-<div align=center>🐳</div>
+<div align=center>🎐</div>
