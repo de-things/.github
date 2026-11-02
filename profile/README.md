@@ -8,6 +8,6 @@ This project has alternatives such as [Home Assistant](https://github.com/home-a
 ### Where to start
 
 * A [core library](https://github.com/de-things/delib) for ESP32 family boards to create an IoT device in just a few lines of code;
-* Official web [GUI client](https://github.com/de-things/de-gui) with customizable layout to control de:things devices.
+* An official web [GUI client](https://github.com/de-things/de-gui) with customizable layout to control de:things devices.
 
 <div align=center>🎐</div>
