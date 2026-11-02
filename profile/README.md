@@ -3,7 +3,7 @@
 ## A gist...
 ...is to make possible to create IoT devices targeted to *decentralized* networks without a need to communicate through a long-distance gateway such as Kojima / Aqara / Tuya / etc. *centralized* IoT devices do.
 
-This project has alternatives such as [Home Assistant](https://github.com/home-assistant/), but imo it's overwhelmed with features, as well as I wanted to learn IoT infrastructure, so I did a thing... a *de:thing*, basically, ha-ha.
+There are alternatives for a project like [Home Assistant](https://github.com/home-assistant/), but this project targets to an environment beyond just a smart home concept. Simple and customizable for any tasks if you know how to use it.
 
 ### Where to start
 
